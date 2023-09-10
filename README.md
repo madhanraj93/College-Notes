@@ -1,2 +1,1 @@
-# SSM
-SSM
+College Notes
